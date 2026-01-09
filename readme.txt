@@ -18,7 +18,6 @@ BlankSlate is the definitive WordPress boilerplate starter theme. I've carefully
 
 If you're creating your own theme or client project, open up all files and do a "Find and Replace All" on the word "blankslate" with your own project name.
 
-Learn about more ways to use BlankSlate and precautions to take at: https://blankslate.me/.
 
 === License ===
 
